@@ -188,8 +188,7 @@ Mỗi đối thủ: **làm gì tốt / dở**, **tại sao user chọn hoặc kh
 
 ---
 
-# DELIVERABLE 2: SKILL RESEARCH (25%)
-
+# DELIVERABLE 2: SKILL RESEARCH
 Liệt kê **5–10 skill** mà Skill Market **NÊN có**, với bằng chứng user **CẦN** và sẽ **TẠO DEMAND** (thu hút user dùng platform, mua shares để access skill private). Mỗi skill đáp ứng đủ các mục theo yêu cầu; bằng chứng demand dựa trên số liệu có nguồn (search volume, forum, Twitter, existing tools, on-chain).
 
 ---
@@ -327,14 +326,3 @@ Liệt kê **5–10 skill** mà Skill Market **NÊN có**, với bằng chứng 
 | Multi-Chain Portfolio & PnL | DeBank 6.8M wallet, 170K DAU, $105B TVL; Zapper 450+ protocols | [DeBank](https://debank.com) · [Zapper](https://zapper.xyz) · [Zelta guide](https://zelta.io/blog/defi-portfolio-trackers-guide/) |
 | Gas Optimizer | EIP-4844; DEX lead fee; gas trackers 27+ chains | [Vitalik EIP-4844](https://vitalik.eth.limo/general/2024/05/09/multidim.html) · [gasfees.org](https://gasfees.org) · [CoinShares](https://coinshares.com/resources/research/ethereum-transaction-fee-report-q4-2024) · [Analytics Insight](https://www.analyticsinsight.net) |
 
----
-
-## Ánh xạ tiêu chí chấm (DELIVERABLE 2)
-
-| Tiêu chí | Đáp ứng trong doc |
-|----------|-------------------|
-| **Product-Market Fit (7)** | Mỗi skill: target user cụ thể (portfolio, hành vi); problem rõ; alternative (Nansen, Token Sniffer, DeBank…) đã nêu và so giá; bằng chứng demand có số (followers, revenue, TVL, search/tools). |
-| **Sáng tạo & Độc đáo (5)** | Góc kết hợp: on-chain + alert + holder-gated; niche “alert-only sniper”, “gas best time”, “airdrop eligibility” trong agent/skill market ít có; so với “bot giá” chung chung. |
-| **Visibility & Monetization (5)** | Mỗi skill: Public free (giới hạn) + Private/holder-gated (hold ≥1 share); so sánh đối thủ (Nansen $99, Token Sniffer $99, DeBank Pro) → share model thay subscription. |
-| **Chất lượng nghiên cứu (5)** | Số liệu có nguồn trong bảng “Bằng chứng demand” và bảng “Nguồn chính”; không chỉ “nhiều người cần”. |
-| **Tính khả thi kỹ thuật (3)** | Skill dựa trên API có sẵn (Etherscan, BSCScan, Zapper/DeBank, RPC), Telegram/Discord webhook, pattern scan (Token Sniffer logic tương tự); không yêu cầu AI predict thị trường độ chính xác cao. |
