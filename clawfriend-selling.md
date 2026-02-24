@@ -1,6 +1,6 @@
 # DELIVERABLE 1: COMPETITIVE LANDSCAPE — AI Agent Marketplace
 
-Phân tích **chỉ các dự án AI agent marketplace** (marketplace cho AI agent / skill cho agent) trên thị trường, **so sánh với dự án ClawFriend** (theo **CLAWFRIEND_SPEC.md** — docs.clawfriend.ai). Các đối thủ: tên, link, mô tả, số liệu, monetization, điểm mạnh/yếu; phân tích tổng thể và kết luận định vị **ClawFriend**. *Đã loại bỏ các dự án không phải AI agent marketplace (vd. friend.tech — social keys; SingularityNET — AI services; LangSmith — prompt registry cho dev).*
+Phân tích **chỉ các dự án AI agent marketplace** (marketplace cho AI agent / skill cho agent) trên thị trường, **so sánh với dự án ClawFriend** (theo **CLAWFRIEND_SPEC.md** — docs.clawfriend.ai). Các đối thủ: tên, link, mô tả, số liệu, monetization, điểm mạnh/yếu; phân tích tổng thể và kết luận định vị **ClawFriend**.
 
 ---
 
@@ -177,11 +177,11 @@ Mỗi đối thủ: **làm gì tốt / dở**, **tại sao user chọn hoặc kh
 
 ## 6. Tóm tắt
 
-| Tiêu chí | Điểm | Đáp ứng trong doc |
-|----------|------|-------------------|
-| Chất lượng phân tích đối thủ | 10 | §3 — ClawHub, Virtuals, GPT Store, Agents.one, Clawrr + định vị ClawFriend; mỗi đối thủ có nhận xét riêng; **ClawFriend học được gì** và **ClawFriend định vị thế nào** từ spec. |
-| Số liệu & Data thực | 6 | §1, §2 — ClawFriend (dự án mình) + 7 đối thủ AI agent marketplace; mỗi đối thủ ≥2 số liệu, có nguồn. |
-| So sánh & Insight chiến lược | 5 | §4 — Focus chain & pricing; gap thị trường và **ClawFriend đang lấp**; giai đoạn thị trường; ai dẫn đầu; **ClawFriend có chỗ**. |
-| Kết luận & Định vị marketplace | 4 | §5 — **ClawFriend** khác ở đâu; segment ClawFriend đánh vào; **ClawFriend** thắng/thua có số liệu; lợi thế cạnh tranh từ spec. |
+| Tiêu chí | Đáp ứng trong doc |
+|----------|-------------------|
+| Chất lượng phân tích đối thủ | §3 — ClawHub, Virtuals, GPT Store, Agents.one, Clawrr + định vị ClawFriend; mỗi đối thủ có nhận xét riêng; **ClawFriend học được gì** và **ClawFriend định vị thế nào** từ spec. |
+| Số liệu & Data thực | §1, §2 — ClawFriend (dự án mình) + 7 đối thủ AI agent marketplace; mỗi đối thủ ≥2 số liệu, có nguồn. |
+| So sánh & Insight chiến lược | §4 — Focus chain & pricing; gap thị trường và **ClawFriend đang lấp**; giai đoạn thị trường; ai dẫn đầu; **ClawFriend có chỗ**. |
+| Kết luận & Định vị marketplace | §5 — **ClawFriend** khác ở đâu; segment ClawFriend đánh vào; **ClawFriend** thắng/thua có số liệu; lợi thế cạnh tranh từ spec. |
 
 **Kết luận có số liệu (chỉ AI agent marketplace, so sánh với ClawFriend):** ClawHub có 5,7K+ skills nhưng không monetize; GPT Store có 3M+ GPTs nhưng centralized; Virtuals có 2,200+ agents nhưng chưa skill store rõ; Agents.one 1,290+ agents nhưng centralized; Clawrr M2M trên Base nhưng không shares/skill; AI Agent Store chỉ directory. **ClawFriend** (theo CLAWFRIEND_SPEC) có **Shares Trading + Skill Market + Autonomous Social Stream trong 1 hệ sinh thái** trên **BNB**, với **5% protocol + 5% creator fee** và **holder-gated skill** = có chỗ cho segment crypto-native agent/skill và creator muốn earn on-chain; thua ở distribution/brand so với player lớn — cần execution và tăng agent/skill count.
