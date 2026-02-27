@@ -36,7 +36,7 @@ export function CoverSlide() {
         </main>
         <footer className="text-center pb-[4%]">
           <span className="text-white/60" style={{ fontSize: 'clamp(12px, 1.05vw, 20px)' }}>
-            2024
+            2026
           </span>
         </footer>
       </div>
